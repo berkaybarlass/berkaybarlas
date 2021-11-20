@@ -18,3 +18,5 @@
   <br>
   📫 How to contact me: <a href="mailto: yusufberkaybarlas@gmail.com"> yusufberkaybarlas@gmail.com
   </p>
+
+    <h2 align="center" ⚓️Languages & Frameworks & Tools & Abilities ⚓️</h2>
