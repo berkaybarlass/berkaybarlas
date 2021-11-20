@@ -11,11 +11,11 @@
 
 ```py
 About Me = [
-    "I'm student with noob dev labels",
-    "A know about of Python, HTML. CSS, PHP, JS, and Much More ...!",
+    "I'm software developer in test ",
+    "A know about of Python, Selenium, Java, HTML, CSS ",
     "New Things with code everyday",
-    "I am in my world !! 💞"
-    "I Work for Mine"
+    "I like to work at night !!"
+    "I Work for Denebunu"
 ]
 ```
 
