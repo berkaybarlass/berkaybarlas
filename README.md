@@ -48,7 +48,8 @@ About Me = [
   </div>
   <br><br><br><br><br><br><br><br><br><br><br>
  <div align=center>
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&exclude_repo=DenebunuConsumerWebSiteAutomation,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+     <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me Avi Patil"/></p></a><br> 
+
       </a>
     </div>
     <br>
