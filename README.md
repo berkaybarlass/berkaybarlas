@@ -49,8 +49,10 @@
   <br><br><br><br><br><br><br><br><br><br><br>
   
 <div align=center>
-      
-https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&layout=compact
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+       
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&layout=compact">
+ </a>
     </div>
 
  <br>
