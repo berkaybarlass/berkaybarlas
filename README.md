@@ -8,15 +8,14 @@
                  
  <br>
   <p align="center"> 
-  ```py
-About Me = [
+
+ About Me = [
     "I'm student with noob dev labels",
     "A know about of Python, HTML. CSS, PHP, JS, and Much More ...!",
     "New Things with code everyday",
     "I am in my world !! 💞"
     "I Work for Mine"
 ]
-```
 
 
 <hr>
