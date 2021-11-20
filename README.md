@@ -9,7 +9,7 @@
  <br>
   <p align="center"> 
 
- About Me = [
+About Me = [
     "I'm student with noob dev labels",
     "A know about of Python, HTML. CSS, PHP, JS, and Much More ...!",
     "New Things with code everyday",
