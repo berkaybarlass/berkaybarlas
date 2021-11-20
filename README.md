@@ -26,7 +26,7 @@
 <br>
 <p align="center">
     <code><img title="Python" height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-    <code><img title="Java" height="25" src="https://toppng.com//public/uploads/preview/java-logo-11609365784e4gmvr3iyr.png"></code>
+    <code><img title="Java" height="25" src="https://www.pikpng.com/transpng/JwRoJT/"></code>
     <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>
  <code><img title="CSS3" height="25" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></code>
     <code><img title="Git" height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
