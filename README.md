@@ -32,8 +32,7 @@ About Me = [
    </a>
   </div>
   <br><br><br><br><br><br><br><br><br><br><br>
-## :eyes:  Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&exclude_repo=github-readme-stats,berkaybarlass.github.io)](https://github.com/anuraghazra/github-readme-stats)
+:eyes:  Most Used Languages
 
  <br>
  <img src="https://activity-graph.herokuapp.com/graph?username=berkaybarlass&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -49,8 +48,4 @@ About Me = [
 &nbsp;<code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code>
 &nbsp;
-
-  </h4>
-  
-  ## :eyes:  Most Used Languages
 
