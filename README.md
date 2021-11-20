@@ -21,7 +21,10 @@ About Me = [
 ``` 
  
  ```py
-Technologies and tools = [
+Languages and Tools: = [
+ "languages": {python,java,html,css
+ }
+ 
     
 ]
 ``` 
