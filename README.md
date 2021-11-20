@@ -37,6 +37,9 @@ About Me = [
  <img src="https://activity-graph.herokuapp.com/graph?username=berkaybarlass&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  </p>
  
+ <h2 align="center"Languages & Frameworks & Tools & Abilities</h2>
+  <br>
+ 
  <p align="center"> 
 <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/></a></code>
