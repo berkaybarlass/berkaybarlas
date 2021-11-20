@@ -26,7 +26,7 @@
 <br>
 <p align="center">
     <code><img title="Python" height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-    <code><img title="Java" height="25" src="https://img2.pngindir.com/20180810/qzu/kisspng-oracle-certified-professional-java-se-programmer-c-grails-development-groovy-development-grails-d-5b6dde24be2d06.508902321533926948779.jpg"></code>
+    <code><img title="Java" height="25" src="https://img2.pngindir.com/20180515/szw/kisspng-java-database-connectivity-cdr-encapsulated-postsc-5afb9daab091a7.4641025815264393387232.jpg"></code>
     <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>
  <code><img title="CSS3" height="25" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></code>
     <code><img title="Git" height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
