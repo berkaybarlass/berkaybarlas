@@ -1,5 +1,6 @@
-
-  <h1 align="center">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=berkaybarlass.berkaybarlass">
+ 
+ <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?color=%2324C5F7&size=22&lines=I'm+Berkay+Barlas;Software+Developer+in+Test">
     </a>
@@ -31,7 +32,8 @@
     <code><img title="Java" height="25" src="https://toppng.com//public/uploads/preview/java-logo-11609365784e4gmvr3iyr.png"></code>
     <code><img title="GitHub" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></code>
    <code><img title="Selenium" height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"></code>
-  <code><img title="Postman" height="25" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"></code>
+  <code><img title="Postman" height="25" 
+  src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"></code>
   </p>
   <hr>
   
