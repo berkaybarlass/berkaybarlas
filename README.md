@@ -40,7 +40,7 @@
   
   <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BerkayBarlas's streak" img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=berkaybarlass&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Go to Source" alt="BerkayBarlas's streak" img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=berkaybarlass&theme=monokai-metallian&hide_border=true" alt="zumrudu-anka"/>
   </a>
   
   
