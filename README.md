@@ -23,7 +23,6 @@
 <hr>
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-  
     <code><img title="Python" height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
     <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>
     <code><img title="Git" height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
@@ -34,3 +33,5 @@
   <code><img title="Postman" height="25" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"></code>
   </p>
   <hr>
+  
+  
