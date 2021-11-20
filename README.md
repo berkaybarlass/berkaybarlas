@@ -51,3 +51,7 @@ About Me = [
 &nbsp;
 
   </h4>
+  
+  ## :eyes:  Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&layout=compact)](https://github.com/iremuludirik/github-readme-stats)
+
