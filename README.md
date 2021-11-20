@@ -8,17 +8,15 @@
                  
  <br>
   <p align="center"> 
-  <br>
-   Hi, Berkay Barlas, Software Developer in Test
-  <br>
-   💻 I love writing code and learn anythings about it
-  <br>
-  🎓I graduated from Bahcesehir University
-  <br>
-  ✅ I’m currently working in Python,Java,Selenium,HTML5,CSS3
-  <br>
-  📫 How to contact me: <a href="mailto: yusufberkaybarlas@gmail.com"> yusufberkaybarlas@gmail.com
-  </p>
+  ```py
+About Me = [
+    "I'm student with noob dev labels",
+    "A know about of Python, HTML. CSS, PHP, JS, and Much More ...!",
+    "New Things with code everyday",
+    "I am in my world !! 💞"
+    "I Work for Mine"
+]
+```
 
 
 <hr>
