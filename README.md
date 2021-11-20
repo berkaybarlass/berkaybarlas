@@ -19,8 +19,8 @@
   📫 How to contact me: <a href="mailto: yusufberkaybarlas@gmail.com"> yusufberkaybarlas@gmail.com
   </p>
 
-  <hr>
-  <h2 align="center" 🛠 Languages & Frameworks & Tools & Abilities ⚓️</h2>
+ <hr>
+  <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
     <code><img title="Python" height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
     <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>
