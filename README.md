@@ -5,8 +5,11 @@
     </a>
   </h1>
                  
+ <br>
+  <p align="center"> 
                 Hi, Berkay Barlas, Software Developer in Test
                 💻 I love writing code and learn anythings about it
                 🎓I graduated from Bahçeşehir University
                 ✅ I’m currently working Python,Java,Selenium,HTML5,CSS3
-                📫 How to contact me: <mailto:yusufberkaybarlas@gmail.com>
+                📫 How to contact me: <a href="mailto: yusufberkaybarlas@gmail.com"> yusufberkaybarlas@gmail.com
+  </p>
