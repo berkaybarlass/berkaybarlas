@@ -37,7 +37,7 @@
   src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"></code>
   </p>
   <hr>
-  
+  <h2 align="center"> 🔥 Streak stats 🔥 </h2>
   <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Go to Source" alt="BerkayBarlas's streak" img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=berkaybarlass&theme&theme=react&border_color=61dafb&hide_border=true&=monokai-metallian&hide_border=true"/>
