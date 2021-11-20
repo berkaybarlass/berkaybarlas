@@ -32,7 +32,8 @@ About Me = [
    </a>
   </div>
   <br><br><br><br><br><br><br><br><br><br><br>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  <br>
  <img src="https://activity-graph.herokuapp.com/graph?username=berkaybarlass&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
