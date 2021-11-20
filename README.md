@@ -21,7 +21,7 @@ About Me = [
 ``` 
  
  ```py
-Languages frameworks tools abilities = [
+Technologies and tools = [
     
 ]
 ``` 
