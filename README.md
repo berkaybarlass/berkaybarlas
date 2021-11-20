@@ -12,10 +12,11 @@
 ```py
 About Me = [
     "I'm software developer in test ",
+    "I work for Denebunu and Samplico"
     "A know about of Python, Selenium, Java, HTML, CSS ",
-    "New Things with code everyday",
+    "New things with code everyday",
     "I like to work at night !!"
-    "I Work for Denebunu"
+    
 ]
 ```
 
