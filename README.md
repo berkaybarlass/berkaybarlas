@@ -32,17 +32,12 @@ About Me = [
    </a>
   </div>
   <br><br><br><br><br><br><br><br><br><br><br>
- <div align=center>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&layout=compact&theme=buefy&hide_border=true" /></a> 
-    </div>
-    <br>
+  
 
  <br>
  <img src="https://activity-graph.herokuapp.com/graph?username=berkaybarlass&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  </p>
  
- <h2 align="center"Languages & Frameworks & Tools & Abilities</h2>
-  <br>
  
  <p align="center"> 
 <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
