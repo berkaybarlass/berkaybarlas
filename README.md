@@ -37,12 +37,7 @@ About Me = [
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
       </a>
     </div>
-
- <br>
- <img src="https://activity-graph.herokuapp.com/graph?username=berkaybarlass&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
- </p>
- 
- <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+    <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <p align="center"> 
 <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
@@ -54,3 +49,10 @@ About Me = [
 <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code>
 &nbsp;
 
+
+
+ <br>
+ <img src="https://activity-graph.herokuapp.com/graph?username=berkaybarlass&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ </p>
+ 
+ 
