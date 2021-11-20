@@ -19,15 +19,8 @@ About Me = [
     
 ]
 ``` 
- 
- ```py
-Languages and Tools: = [
- "languages": {python,java,html,css
- }
- 
-    
-]
-``` 
+
+ <h2 align="center">🔥 Languages and Tools  🔥</h2> 
 
 <p align="center"> 
 <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
