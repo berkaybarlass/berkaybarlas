@@ -34,7 +34,7 @@ About Me = [
   <br><br><br><br><br><br><br><br><br><br><br>
 <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&hide=exclude_repo=automated-ui-tests,DenebunuConsumerWebSiteAutomation,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&hide=exclude_repo=DenebunuConsumerWebSiteAutomation,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
       </a>
     </div>
 
@@ -43,7 +43,7 @@ About Me = [
  </p>
  
  
- <p align="center"> 
+<p align="center"> 
 <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/></a></code>
 &nbsp;<code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code>
