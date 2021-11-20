@@ -21,13 +21,9 @@ About Me = [
 ``` 
  
  ```py
-About Me = [
-    "I'm software developer in test ",
-    "I work for Denebunu and Samplico"
-    "A know about of Python, Selenium, Java, HTML, CSS ",
-    "New things with code everyday",
-    "I like to work at night !!"
-    
+languages_frameworks_tools_abilities = [
+     <p align="center"> 
+<code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
 ]
 ``` 
 
