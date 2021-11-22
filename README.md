@@ -59,4 +59,5 @@ About Me = [
  <img src="https://activity-graph.herokuapp.com/graph?username=berkaybarlass&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  </p>
  
- 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=berkaybarlass&theme=onedark)](https://github.com/muhammetfurkandemiral/github-profile-trophy)
+
