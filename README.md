@@ -15,11 +15,11 @@ About Me = [
     "I work for Vodafone"
     "A know about of Python, Selenium, Java, HTML, CSS ",
     "New things with code everyday",
-    "I like to work at night !!",
-    "https://medium.com/@yusufberkaybarlas"
+    "I like to work at night !!"
     
 ]
-``` 
+```
+ https://medium.com/@yusufberkaybarlas
 
  <h2 align="center">🔥 Languages and Tools  🔥</h2> 
 
