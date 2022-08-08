@@ -15,7 +15,8 @@ About Me = [
     "I work for Vodafone"
     "A know about of Python, Selenium, Java, HTML, CSS ",
     "New things with code everyday",
-    "I like to work at night !!"
+    "I like to work at night !!",
+    "https://medium.com/@yusufberkaybarlas"
     
 ]
 ``` 
