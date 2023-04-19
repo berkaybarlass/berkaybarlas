@@ -12,7 +12,7 @@
 ```py
 About Me = [
     "I'm software developer in test ",
-    "I work for ParamTech"
+    "I work for Teknasyon"
     "A know about of Python, Selenium, Java, HTML, CSS ",
     "New things with code everyday",
     "I like to work at night !!"
