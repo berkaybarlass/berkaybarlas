@@ -42,9 +42,17 @@ About Me = [
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Go to Source" alt="BerkayBarlas's streak" img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=berkaybarlass&theme&theme=react&border_color=61dafb&hide_border=true&=monokai-metallian&hide_border=true"/>
   </div>
+     </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=berkaybarlass&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+   </a>
   <br><br><br><br><br><br><br><br><br><br><br>
 
-
+<div align=center>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaybarlass&Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=20&layout=compact&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
 
 
 
